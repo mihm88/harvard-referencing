@@ -1,0 +1,4 @@
+interface:
+  display_name: "UEL Harvard Dissertation Auditor"
+  short_description: "Correct dissertation citations and references"
+  default_prompt: "Use $apply-harvard-referencing to correct the Harvard citations and reference list in my dissertation without changing its academic content."
